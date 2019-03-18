@@ -1,4 +1,4 @@
-package com.java.util.date;
+package com.java.util.one;
 
 import java.time.*;
 import java.time.format.DateTimeFormatter;
@@ -27,7 +27,7 @@ public class Time {
         //在Java8判断两个日期是否相等
         LocalDate date1 = LocalDate.of(2014, 01, 14);
         if (date1.equals(today)) {
-            System.out.printf("Today %s and date1 %s are same date %n", today, date1);
+            System.out.printf("Today %s and date1 %s are same one %n", today, date1);
         }
         //在Java 8中检查像生日这种周期性事件
         LocalDate dateOfBirth1 = LocalDate.of(2010, 01, 14);
@@ -76,7 +76,7 @@ public class Time {
         ZoneId america = ZoneId.of("America/New_York");
         LocalDateTime localtDateAndTime = LocalDateTime.now();
         ZonedDateTime dateAndTimeInNewYork  = ZonedDateTime.of(localtDateAndTime, america );
-        System.out.println("Current date and time in a particular timezone : " + dateAndTimeInNewYork);
+        System.out.println("Current one and time in a particular timezone : " + dateAndTimeInNewYork);
 
         //信用卡到期这类固定日期，答案就在YearMonth
         YearMonth currentYearMonth = YearMonth.now();
@@ -119,7 +119,7 @@ public class Time {
         try {
             DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy.MM.dd");
             LocalDate holiday = LocalDate.parse(goodFriday, formatter);
-            System.out.printf("Successfully parsed String %s, date is %s%n", goodFriday, holiday);
+            System.out.printf("Successfully parsed String %s, one is %s%n", goodFriday, holiday);
         } catch (DateTimeParseException ex) {
             System.out.printf("%s is not parsable!%n", goodFriday);
             ex.printStackTrace();
