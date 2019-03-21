@@ -1,17 +1,13 @@
 package com.java.util.one.two;
-
 /**
  * 学习枚举类型
  * @author 黄敬理
  * 2019.03.21
  */
-
 enum Week {
     MONDAY("星期一"), TUESDAY("星期二"), WEDNESDAY("星期三"), THURSDAY("星期四"), FRIDAY("星期五"), SATURDAY("星期六"), SUNDAY("星期日");
     String week;
-
     Week(String week) {
-
         this.week = week;
     }
     public String getName() {

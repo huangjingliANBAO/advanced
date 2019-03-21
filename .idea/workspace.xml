@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ff7bd6d-3e09-4ee0-9aa4-caddf7ad2ba5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/util/src/com/java/util/one/two/EnumSetTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/colletion-study/src/com/soft1841/map/PokerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/src/com/java/util/one/two/DateTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/src/com/java/util/one/two/EnumSetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/util/src/com/java/util/one/two/EnumSetTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,37 +20,37 @@
           <entry key="project.closed" value="16" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="4" />
-          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.13" value="2" />
-          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="17" />
+          <entry key="project.opened" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="41" />
+          <entry key="java" value="43" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="41" />
+          <entry key="JAVA" value="43" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="4" />
-          <entry key="java" value="5687" />
+          <entry key="java" value="6001" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5687" />
+          <entry key="JAVA" value="6001" />
           <entry key="PLAIN_TEXT" value="4" />
         </counts>
       </usages-collector>
@@ -97,28 +98,40 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/colletion-study/src/com/soft1841/set/SetTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
+            <state relative-caret-position="120">
               <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Temp/KuaiZip/00890036002300e800dc008200bf006f.temp/Java教材光盘资源/Code/Try/09/17/EnumSetTest.java">
+        <entry file="file://$PROJECT_DIR$/util/src/com/java/util/one/two/EnumSetTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="509">
-              <caret line="77" lean-forward="true" selection-start-line="3" selection-end-line="77" />
+            <state>
+              <caret column="30" selection-start-column="30" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/colletion-study/src/com/soft1841/map/PokerDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="803">
+              <caret line="61" column="41" selection-start-line="61" selection-start-column="41" selection-end-line="61" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/util/src/com/java/util/one/two/EnumSetTest.java">
+        <entry file="file://$PROJECT_DIR$/util/src/com/java/util/one/two/DateTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+            <state relative-caret-position="540">
+              <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
               <folding>
-                <element signature="e#340#341#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -169,6 +182,8 @@
         <option value="$PROJECT_DIR$/util/src/com/java/util/one/TimeCalculate.java" />
         <option value="$PROJECT_DIR$/util/src/com/java/util/one/two/Test1.java" />
         <option value="$PROJECT_DIR$/util/src/com/java/util/one/two/EnumSetTest.java" />
+        <option value="$PROJECT_DIR$/colletion-study/src/com/soft1841/map/PokerDemo.java" />
+        <option value="$PROJECT_DIR$/util/src/com/java/util/one/two/DateTest.java" />
       </list>
     </option>
   </component>
@@ -201,36 +216,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="advanced" type="58d84e3e:PackageViewProjectNode" />
-              <item name="util" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="advanced" type="58d84e3e:PackageViewProjectNode" />
-              <item name="util" type="616d4139:PackageViewModuleNode" />
-              <item name="com.java.util" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="advanced" type="58d84e3e:PackageViewProjectNode" />
-              <item name="util" type="616d4139:PackageViewModuleNode" />
-              <item name="com.java.util" type="1f31426a:PackageElementNode" />
-              <item name="one" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="advanced" type="58d84e3e:PackageViewProjectNode" />
-              <item name="util" type="616d4139:PackageViewModuleNode" />
-              <item name="com.java.util" type="1f31426a:PackageElementNode" />
-              <item name="one" type="1f31426a:PackageElementNode" />
-              <item name="two" type="1f31426a:PackageElementNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -242,12 +227,6 @@
               <item name="advanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="colletion-study" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="colletion-study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="soft1841" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="advanced" type="b2602c69:ProjectViewProjectNode" />
@@ -283,12 +262,42 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="advanced" type="58d84e3e:PackageViewProjectNode" />
+              <item name="util" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="advanced" type="58d84e3e:PackageViewProjectNode" />
+              <item name="util" type="616d4139:PackageViewModuleNode" />
+              <item name="com.java.util" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="advanced" type="58d84e3e:PackageViewProjectNode" />
+              <item name="util" type="616d4139:PackageViewModuleNode" />
+              <item name="com.java.util" type="1f31426a:PackageElementNode" />
+              <item name="one" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="advanced" type="58d84e3e:PackageViewProjectNode" />
+              <item name="util" type="616d4139:PackageViewModuleNode" />
+              <item name="com.java.util" type="1f31426a:PackageElementNode" />
+              <item name="one" type="1f31426a:PackageElementNode" />
+              <item name="two" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553122952073" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553207590299" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="D:/supermarket" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -317,9 +326,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EnumSetTest">
-    <configuration name="ArticleListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.util.one.two.ArticleListTest" />
+  <component name="RunManager" selected="Application.DateTest">
+    <configuration name="BookTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.util.one.two.BookTest" />
       <module name="util" />
       <extension name="coverage">
         <pattern>
@@ -331,8 +340,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BookTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.util.one.two.BookTest" />
+    <configuration name="DateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.util.one.two.DateTest" />
       <module name="util" />
       <extension name="coverage">
         <pattern>
@@ -357,6 +366,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PokerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1841.map.PokerDemo" />
+      <module name="colletion-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soft1841.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.java.util.one.two.Test1" />
       <module name="util" />
@@ -370,33 +392,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TimeCalculate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.util.one.TimeCalculate" />
-      <module name="util" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java.util.one.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.TimeCalculate" />
-      <item itemvalue="Application.ArticleListTest" />
       <item itemvalue="Application.BookTest (1)" />
       <item itemvalue="Application.Test1" />
       <item itemvalue="Application.EnumSetTest" />
+      <item itemvalue="Application.PokerDemo" />
+      <item itemvalue="Application.DateTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DateTest" />
+        <item itemvalue="Application.PokerDemo" />
         <item itemvalue="Application.EnumSetTest" />
         <item itemvalue="Application.Test1" />
         <item itemvalue="Application.BookTest (1)" />
-        <item itemvalue="Application.ArticleListTest" />
-        <item itemvalue="Application.TimeCalculate" />
       </list>
     </recent_temporary>
   </component>
@@ -426,12 +435,14 @@
       <workItem from="1553066806202" duration="39000" />
       <workItem from="1553066912657" duration="583000" />
       <workItem from="1553075521398" duration="217000" />
-      <workItem from="1553121379629" duration="1530000" />
+      <workItem from="1553121379629" duration="2438000" />
+      <workItem from="1553180953642" duration="917000" />
+      <workItem from="1553206842410" duration="687000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39444000" />
+    <option name="totallyTimeSpent" value="41956000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -446,7 +457,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49838188" visible="true" weight="0.1444563" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49838188" visible="true" weight="0.1380597" />
       <window_info id="Structure" order="1" sideWeight="0.50161815" side_tool="true" weight="0.13486141" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -455,14 +466,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.13572204" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32790446" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32899022" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -616,9 +627,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -626,9 +634,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -643,12 +648,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/KuaiZip/00890036002300e800dc008200bf006f.temp/Java教材光盘资源/Code/Try/09/17/EnumSetTest.java" />
     <entry file="file://$PROJECT_DIR$/util/src/com/java/util/one/two/Test1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -676,6 +679,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/colletion-study/src/com/soft1841/set/SetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/src/com/java/util/one/two/EnumSetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="30" selection-start-column="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/colletion-study/src/com/soft1841/map/Student.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -683,26 +700,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/colletion-study/src/com/soft1841/set/SetTest.java">
+    <entry file="file://$PROJECT_DIR$/colletion-study/src/com/soft1841/map/PokerDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/KuaiZip/00890036002300e800dc008200bf006f.temp/Java教材光盘资源/Code/Try/09/17/EnumSetTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="77" lean-forward="true" selection-start-line="3" selection-end-line="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/util/src/com/java/util/one/two/EnumSetTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        <state relative-caret-position="803">
+          <caret line="61" column="41" selection-start-line="61" selection-start-column="41" selection-end-line="61" selection-end-column="41" />
           <folding>
-            <element signature="e#340#341#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/src/com/java/util/one/two/DateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
