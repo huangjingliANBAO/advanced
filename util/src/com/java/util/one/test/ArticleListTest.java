@@ -1,4 +1,4 @@
-package com.java.util.one.two;
+package com.java.util.one.test;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -6,6 +6,7 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.Iterator;
 import java.util.List;
+
 
 public class ArticleListTest {
     public static void main(String[] args) throws ParseException {
@@ -17,16 +18,18 @@ public class ArticleListTest {
         list.add(new Article(2,"人性的弱点，世界人文畅销书","卡耐基",simpleDateFormat.parse("2019-03-18 20:13:50")));
         list.add(new Article(3,"今天也要用心过生活.........","松浦弥太郎",simpleDateFormat.parse("2019-03-17 00:14:50")));
         System.out.println("id    标题                作者        时间");
-        Iterator<Article>  iterator = list.iterator();
-        while (iterator.hasNext()){
+        //创建迭代器
+        Iterator<Article> iterator = list.iterator();
+        while(iterator.hasNext()){
+            //Article迭代
             Article article = iterator.next();
-            String result;
-            result = timeCal(simpleDateFormat.format(article.getTime()));
+            //调用timeCha()方法
+            String result = timeCha(simpleDateFormat.format(article.getTime()));
             System.out.println(article.getId()+"  "+article.getTitle().substring(0,10)+"..."+
-                    article.getAuthor()+"  "+result);
+                    article.getAuthor()+"  "+result);//substring（0,10）截取元素
         }
     }
-    private static String timeCal(String time) {
+    private static String timeCha(String time) {
         SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
         Date d1;
         long diff = 0;

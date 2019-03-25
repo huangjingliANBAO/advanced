@@ -44,7 +44,7 @@ public class Time {
         System.out.println("local time now : " + time);
         //如何在现有的时间上加小时
         LocalTime time1 = LocalTime.now();
-        LocalTime newTime = time.plusHours(2); // adding two hours
+        LocalTime newTime = time.plusHours(2); // adding test hours
         System.out.println("Time after 2 hours : " +  newTime); //计算一周后的日期
         LocalDate nextWeek = today.plus(1, ChronoUnit.WEEKS);
         System.out.println("Today is : " + today);

@@ -8,8 +8,8 @@ public class StudentTest {
         list1.add(new Student(1, "黄敬理"));
         list1.add(new Student(2, "袁腾飞"));
         List<Student> list2 = new ArrayList<>();
-        list2.add(new Student(4, "王欢乐"));
-        list2.add(new Student(5, "孟妮"));
+        list2.add(new Student(3, "王欢乐"));
+        list2.add(new Student(4, "孟妮"));
         Map<String, List<Student>> map = new HashMap<>();
         map.put("男生", list1);
         map.put("女生", list2);
@@ -21,7 +21,6 @@ public class StudentTest {
             List<Student> list = entry.getValue();
             for (Student s : list) {
                 System.out.println(s.getId() + s.getName());
-                System.out.println();
             }
         }
     }

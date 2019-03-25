@@ -1,4 +1,4 @@
-package com.java.util.one.two;
+package com.java.util.one.test;
 
 public class Test1 {
     public static void main(String[] args) {

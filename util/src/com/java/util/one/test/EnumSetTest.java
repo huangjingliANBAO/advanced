@@ -1,4 +1,4 @@
-package com.java.util.one.two;
+package com.java.util.one.test;
 /**
  * 学习枚举类型
  * @author 黄敬理

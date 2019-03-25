@@ -1,4 +1,4 @@
-package com.java.util.one.two;
+package com.java.util.one.test;
 
 import java.util.Calendar;
 import java.util.Date;
@@ -17,9 +17,5 @@ public class DateTest {
         Long time = calendar.getTimeInMillis();
         System.out.println("当前时间:" + date);
         System.out.println("当前毫秒数:" + time);
-
-
-
-
     }
 }
