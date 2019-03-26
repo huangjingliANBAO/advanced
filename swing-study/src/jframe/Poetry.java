@@ -3,6 +3,11 @@ package jframe;
 import javax.swing.*;
 import java.awt.*;
 
+/**
+ * 流布局管理器
+ * @author 黄敬理
+ * 2019.03.24
+ */
 public class Poetry extends JFrame {
  public Poetry(){
      setTitle("本窗体使用流布局管理器");

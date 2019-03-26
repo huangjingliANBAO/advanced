@@ -7,7 +7,6 @@ import java.util.Date;
 import java.util.Iterator;
 import java.util.List;
 
-
 public class ArticleListTest {
     public static void main(String[] args) throws ParseException {
         //创建集合对象

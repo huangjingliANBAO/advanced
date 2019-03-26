@@ -3,6 +3,11 @@ package jframe;
 import javax.swing.*;
 import java.awt.*;
 
+/**
+ * 边界布局管理器
+ * @author 黄敬理
+ * 2019.03.26
+ */
 public class BorderLayoutPosition extends JFrame {
     public BorderLayoutPosition(){
         setTitle("这个窗体使用边界布局管理器");
