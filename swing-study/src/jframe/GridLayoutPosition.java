@@ -9,7 +9,7 @@ import java.awt.*;
  * 2019.03.26
  */
 public class GridLayoutPosition extends JFrame {
-    public GridLayoutPosition(){
+    private GridLayoutPosition(){
         init();
         setTitle("窗体标题");
         setSize(400,300);
