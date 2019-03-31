@@ -57,7 +57,6 @@ public class BoxLayoutTest extends JFrame {
         }
         //最后将middlePanel加入窗体的中间区域
         add(middlePanel,BorderLayout.CENTER);
-
         }
 public static void main(String[] args) {
 try{
