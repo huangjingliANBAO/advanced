@@ -13,11 +13,11 @@ public class BorderLayoutPosition extends JFrame {
         setTitle("这个窗体使用边界布局管理器");
         Container c = getContentPane();
         setLayout(new BorderLayout());
-        JButton       centerBtn = new JButton("中");
-        JButton       northBtn = new JButton("北");
-        JButton       southBtn = new JButton("南");
-        JButton       westBtn = new JButton("西");
-        JButton       eastBtn = new JButton("东");
+        JButton centerBtn = new JButton("中");
+        JButton northBtn = new JButton("北");
+        JButton southBtn = new JButton("南");
+        JButton westBtn = new JButton("西");
+        JButton eastBtn = new JButton("东");
         c.add(centerBtn,BorderLayout.CENTER);
         c.add(northBtn,BorderLayout.NORTH);
         c.add(southBtn,BorderLayout.SOUTH);
