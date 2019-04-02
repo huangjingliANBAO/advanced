@@ -16,7 +16,7 @@ public class TxtReaderFrame extends JFrame implements ActionListener {
     private JButton confirmButton;
     private JPanel topPanel;
     private JTextArea contentArea;
-    private JLabel imgLabel;
+    private JLabel imgJLabel;
     private Icon icon;
 
     public TxtReaderFrame(){
@@ -40,15 +40,14 @@ public class TxtReaderFrame extends JFrame implements ActionListener {
         add(topPanel,BorderLayout.NORTH);
         contentArea = new JTextArea();
         add(contentArea,BorderLayout.CENTER);
-        //中间多行文本框
-        imgLabel = new JLabel();
-        add(imgLabel,BorderLayout.CENTER);
+        imgJLabel = new JLabel();
+        add(imgJLabel,BorderLayout.CENTER);
     }
     public static void main(String[] args) {
         new TxtReaderFrame();
     }
     @Override
-    public void actionPerformed(ActionEvent e) {
+        public void actionPerformed(ActionEvent e) {
        //获取输入框内容
         String filePath = inputField.getText().trim();
         //创建文件
@@ -59,10 +58,8 @@ public class TxtReaderFrame extends JFrame implements ActionListener {
             byte[] bytes = new byte[(int) file.length()];
             inputStream.read(bytes);
             inputStream.close();
-            //使用bytes构建一个新的输出字符串
             icon = new ImageIcon(bytes);
-            //将结果放入文本框
-            imgLabel.setIcon(icon);
+            imgJLabel.setIcon(icon);
             //在文本框追加换行
             contentArea.append("\r\n");
         } catch (IOException e1) {
