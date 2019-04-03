@@ -2,6 +2,11 @@ package com.soft1841.file;
 
 import java.io.*;
 
+/**
+ * BufferedStream缓冲流
+ * @author 黄敬理
+ * 2019.04.03
+ */
 public class BufferedStreamTest {
     public static void main(String[] args) {
         String content[] = {"你喜欢我"};

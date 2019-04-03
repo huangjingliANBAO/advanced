@@ -19,21 +19,21 @@ public class FileTest {
          OutputStream outputStream = new FileOutputStream(file,true);//文本内容追加
          outputStream.write(str.getBytes());
          outputStream.close();
-//         //2.字符流输出
-//         Writer writer = new FileWriter(file,true);
-//         writer.write(str.toCharArray());
-//         writer.close();
-//         //3.打印流输出
-//         OutputStream outputStream1 = new FileOutputStream(file,true);
-//         PrintStream printStream = new PrintStream(outputStream);
-//         printStream.print(str);
-//         outputStream1.close();
-//         printStream.close();
-//        File file1 = new File("D:\\1.txt");
-//        InputStream inputStream = new FileInputStream(file1);
-//        Scanner scanner = new Scanner(System.in);
-//        inputStream.read(file1);
-//
+         //2.字符流输出
+         Writer writer = new FileWriter(file,true);
+         writer.write(str.toCharArray());
+         writer.close();
+         //3.打印流输出
+         OutputStream outputStream1 = new FileOutputStream(file,true);
+         PrintStream printStream = new PrintStream(outputStream);
+         printStream.print(str);
+         outputStream1.close();
+         printStream.close();
+        File file1 = new File("D:\\1.txt");
+        InputStream inputStream = new FileInputStream(file1);
+        Scanner scanner = new Scanner(System.in);
+        inputStream.read();
+
 
 
     }
