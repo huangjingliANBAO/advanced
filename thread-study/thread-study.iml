@@ -7,5 +7,19 @@
     </content>
     <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://E:/PPT/jlayer1.0.1.zip!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://E:/PPT/jlayer1.0.1.zip!/JLayer1.0.1/doc" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://E:/PPT/jlayer1.0.1.zip!/JLayer1.0.1/src" />
+          <root url="jar://E:/PPT/jlayer1.0.1.zip!/JLayer1.0.1/srctest" />
+        </SOURCES>
+      </library>
+    </orderEntry>
   </component>
 </module>

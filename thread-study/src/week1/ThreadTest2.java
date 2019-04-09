@@ -12,9 +12,10 @@ public class ThreadTest2 extends Object implements Runnable {
             }
         }
     }
-
     public static void main(String[] args) {
-ThreadTest2 test2 = new ThreadTest2();
+        ThreadTest2 test2 = new ThreadTest2();
+        Thread tt = new Thread(test2);
+        tt.start();
 
     }
     }
