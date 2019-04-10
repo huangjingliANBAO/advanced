@@ -12,24 +12,26 @@ import java.awt.*;
  */
 public class TraficLights extends JFrame {
     private JPanel contenPanel;
+    private JPanel bgPanel;
     private JLabel bgLabel;
 
     public TraficLights(){
         init();
         setTitle("模拟红绿灯变化场景");
-        setBounds(100, 100, 125, 278); // 设置窗体大小，位置
+        setLocationRelativeTo(null);//窗体自动居中
+        setSize(100,320);
         setDefaultCloseOperation(DISPOSE_ON_CLOSE);
     }
     public void init(){
         //内容面板
        contenPanel = new JPanel();
-       contenPanel.setBackground(Color.WHITE);
+       contenPanel.setBackground(Color.BLACK);
        contenPanel.setBorder(new EmptyBorder(5,5,5,5));
        contenPanel.setLayout(new FlowLayout(FlowLayout.CENTER,5,5));
        setContentPane(contenPanel);
        //图片面板
-        JPanel bgPanel = new JPanel();
-        bgPanel.setBackground(Color.WHITE);
+        bgPanel = new JPanel();
+        bgPanel.setBackground(Color.BLUE);
         bgPanel.setBorder(new TitledBorder(null,"交通灯",TitledBorder.LEADING,TitledBorder.TOP,null,null));
         contenPanel.add(bgPanel);
         bgPanel.setLayout(new BorderLayout(0,0));
@@ -39,9 +41,10 @@ public class TraficLights extends JFrame {
         bgLabel.setIcon(new ImageIcon(TitledBorder.class.getResource("/img/Green.png")));
         bgPanel.add(bgLabel,BorderLayout.CENTER);
 
-      Thread thread = new TurnColor();
-      ((TurnColor) thread).setBgLabel(bgLabel);
-      thread.start();
+      TurnColor tc = new TurnColor();
+      tc.setBgLabel(bgLabel);
+      tc.start();
+
     }
 
     public static void main(String[] args) {

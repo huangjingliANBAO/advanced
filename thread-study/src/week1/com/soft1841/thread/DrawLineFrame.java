@@ -12,7 +12,7 @@ public class DrawLineFrame extends JFrame {
     public DrawLineFrame(){
         init();
         setTitle("绘制彩色线段");
-        setSize(800,600);
+        setSize(1220,600);
         setLocationRelativeTo(null);
         setVisible(true);
         setDefaultCloseOperation(DISPOSE_ON_CLOSE);

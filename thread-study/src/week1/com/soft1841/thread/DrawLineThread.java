@@ -36,10 +36,10 @@ public class DrawLineThread implements Runnable {
             Stroke stroke=new BasicStroke(5.0f);//设置线宽为3.0
             g2d.setStroke(stroke);
             graphics.setColor(colors[random.nextInt(colors.length)]);
-            graphics.drawLine(x,y,590,y);
+            graphics.drawLine(x,x,y,500);
             y += 50;
-            if (y>=500){
-                y=100;
+            if (y>=1000){
+                break;
             }
         }
     }
