@@ -1,4 +1,4 @@
-package week1.com.soft1841.thread;
+package week1.com.soft1841.bookdemo;
 
 import javax.swing.*;
 
@@ -8,7 +8,6 @@ public class IconMoveTest implements  Runnable  {
     public void setIconLabel(JLabel iconLabel) {
         this.iconLabel = iconLabel;
     }
-
     @Override
     public void run() {
         int x = 0;

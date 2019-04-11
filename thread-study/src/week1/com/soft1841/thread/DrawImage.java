@@ -10,7 +10,7 @@ import java.awt.*;
  */
 public class DrawImage extends JFrame {
     public DrawImage(){
-        this.setSize(1920,1080);
+        this.setSize(1000,800);
         setVisible(true);
         setDefaultCloseOperation(DISPOSE_ON_CLOSE);
         add(new CanvasTest());

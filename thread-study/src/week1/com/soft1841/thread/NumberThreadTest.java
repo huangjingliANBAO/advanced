@@ -1,4 +1,4 @@
-package week1;
+package week1.com.soft1841.thread;
 
 import javax.swing.*;
 import java.awt.*;

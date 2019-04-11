@@ -1,4 +1,4 @@
-package week1;
+package week1.com.soft1841.thread;
 
 public class ThreadTest2 extends Object implements Runnable {
     private int count = 10;
@@ -13,9 +13,9 @@ public class ThreadTest2 extends Object implements Runnable {
         }
     }
     public static void main(String[] args) {
-        ThreadTest2 test2 = new ThreadTest2();
-        Thread tt = new Thread(test2);
-        tt.start();
+        ThreadTest2 tt = new ThreadTest2();
+        Thread t = new Thread(tt);
+        t.start();
 
     }
     }

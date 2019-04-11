@@ -1,9 +1,7 @@
-package week1.com.soft1841.thread;
+package week1.com.soft1841.bookdemo;
 
 import javax.swing.*;
-import java.awt.*;
 import java.io.*;
-import java.net.URL;
 
 public class IconMove  extends JFrame {
     private JLabel iconLabel;

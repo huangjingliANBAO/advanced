@@ -1,4 +1,4 @@
-package week1;
+package week1.com.soft1841.thread;
 
 /**
  * 多线程起步扩展训练

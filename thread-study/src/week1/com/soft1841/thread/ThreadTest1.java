@@ -1,4 +1,4 @@
-package week1;
+package week1.com.soft1841.thread;
 
 public class ThreadTest1 extends Thread {
     private int count = 10;
