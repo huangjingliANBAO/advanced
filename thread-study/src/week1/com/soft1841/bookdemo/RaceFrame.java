@@ -129,7 +129,6 @@ public class RaceFrame extends JFrame {
             }
         }
     }
-
     private class Tortoise implements Runnable {
         @Override
         public void run() {

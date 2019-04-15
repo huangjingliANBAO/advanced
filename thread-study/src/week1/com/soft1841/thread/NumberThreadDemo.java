@@ -1,14 +1,14 @@
-package ApplicationDemo;
+package week1.com.soft1841.thread;
 
 import javax.swing.*;
 import java.awt.*;
 
-public class NumberThread extends JFrame {
+public class NumberThreadDemo extends JFrame {
     private JLabel numberLabel;
     private JLabel localTime;
     private JPanel numberPanel;
     private JPanel localPanel;
-    public NumberThread(){
+    public NumberThreadDemo(){
         init();
         setTitle("多线程与窗体练习起步");
         setSize(800,600);
@@ -41,7 +41,7 @@ public class NumberThread extends JFrame {
         test.start();
     }
     public static void main(String[] args) {
-        new NumberThread();
+        new NumberThreadDemo();
     }
 
 }
