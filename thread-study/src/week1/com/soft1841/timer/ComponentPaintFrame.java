@@ -1,4 +1,4 @@
-package week1.com.soft1841.thread;
+package week1.com.soft1841.timer;
 
 import javax.imageio.ImageIO;
 import javax.swing.*;
@@ -39,7 +39,7 @@ public class ComponentPaintFrame extends JFrame {
                 try {
                     Image bg = ImageIO.read(new File("D:/image/button.png"));
                     g.drawImage(bg,0,0,getWidth(),getHeight(),null);
-                    g.drawString("按钮",55,25);
+                    g.drawString("hello world",55,25);
                 } catch (IOException e) {
                     e.printStackTrace();
                 }
