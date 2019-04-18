@@ -27,7 +27,7 @@ public class WxTest {
         try{
             d1 = format.parse(time);
             Date now = new Date();
-            diff = now.getTime() - d1.getTime();
+            diff = now.getTime() - d1.getTime();//String 转 Date
         }catch (ParseException e){
             e.printStackTrace();
         }
