@@ -2,14 +2,195 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ff7bd6d-3e09-4ee0-9aa4-caddf7ad2ba5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/jsoup-study/jar/jsoup-1.11.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jsoup-study/jsoup-study.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jsoup-study/src/jsoup/JsoupDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thread-study/src/img/bg2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/TimeCountdownFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsoup-study/src/jsoup/JSoupDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/test/BackgroundPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/test/RoadMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/test/SetFormBackImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/word/CarThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/word/Carousel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/word/Carousel2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/word/CrossTheRoad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/word/FilmImages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/word/TencentFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/word/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/word/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/img/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/img/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/img/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/img/18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/img/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/img/21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/img/22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/img/23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/img/24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/img/25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/img/26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/img/27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/img/28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/img/29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/img/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/img/30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/img/31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/img/32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/img/33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/img/34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/img/35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/img/36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/img/37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/img/38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/img/39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/img/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/img/40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/img/41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/img/42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/img/43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/img/44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/img/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/img/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/img/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/img/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/img/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/img/Penguins.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/img2/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/img2/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/img2/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread-study/src/img2/4.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/src/com/java/util/java/erji/WxTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/util/src/com/java/util/java/erji/WxTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsoup-study/src/jsoup/JsoupDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/jsoup-study/src/jsoup/JSoupDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jsoup-study/jsoup/JsoupDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jsoup-study/jsoup/JsoupDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/img/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/thread-study/img/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/img/background1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/img/bg2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/bookdemo/BuysFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/bookdemo/BuysThreadTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/bookdemo/IconMove.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/bookdemo/IconMoveTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/bookdemo/JoinFrameTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/bookdemo/JoinThreadTest1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/bookdemo/JoinThreadTest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/bookdemo/RaceFrame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/bookdemo/RaceFrame$Rabbit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/bookdemo/RaceFrame$Tortoise.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/bookdemo/RaceFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/bookdemo/TraficLights.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/bookdemo/TurnColor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/test/ChooserFrame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/test/ChooserFrame$music.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/test/ChooserFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/test/ChooserThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/test/LoginFrame1$ImgPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/test/LoginFrame1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/test/ShadePanel2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/test/ShadePanel2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/test/TimeThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/thread/Admission$A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/thread/Admission$B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/thread/Admission.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/thread/CarouselFream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/thread/CarouselThreadTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/thread/DrawImage$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/thread/DrawImage$CanvasTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/thread/DrawImage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/thread/DrawImageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/thread/DrawLineFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/thread/DrawLineThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/thread/ImageThreadTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/thread/JoinDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/thread/LocalTimeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/thread/NumberFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/thread/NumberThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/thread/NumberThreadDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/thread/NumberThreadTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/thread/ThreadTest1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/thread/ThreadTest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/thread/TicketThead1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/thread/TicketThread2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/thread/TicketThread3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/thread/TicketThreadTest1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/thread/TicketThreadTest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/thread/TicketThreadTest3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/thread/TimeCountdownFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/timer/ClockTimerFrame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/timer/ClockTimerFrame$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/timer/ClockTimerFrame$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/timer/ClockTimerFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/timer/ComponentPaintFrame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/timer/ComponentPaintFrame$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/timer/ComponentPaintFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/timer/DrawCircleFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/timer/DrawCircleThread$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/timer/DrawCircleThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/timer/ImgPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/timer/ImgPanel1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/timer/LoginFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/timer/MyButton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/timer/ShadeBackFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/timer/ShadeBackgroundImage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/timer/ShadePanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/timer/ShadePanel1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/timer/ShadePanelDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/timer/TimerDemo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/timer/TimerDemo$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/timer/TimerDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/timer/TimerFrame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/timer/TimerFrame$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/timer/TimerFrame$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/timer/TimerFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/timer/TxtThread$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/timer/TxtThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/timer/WriterThread$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/thread-study/week1/com/soft1841/timer/WriterThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/img/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/img/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/img/background1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/img/bg2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/bookdemo/BuysFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/bookdemo/BuysFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/bookdemo/BuysThreadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/bookdemo/BuysThreadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/bookdemo/IconMove.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/bookdemo/IconMove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/bookdemo/IconMoveTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/bookdemo/IconMoveTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/bookdemo/JoinFrameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/bookdemo/JoinFrameTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/bookdemo/JoinThreadTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/bookdemo/JoinThreadTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/bookdemo/JoinThreadTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/bookdemo/JoinThreadTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/bookdemo/RaceFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/bookdemo/RaceFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/bookdemo/TraficLights.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/bookdemo/TraficLights.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/bookdemo/TurnColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/bookdemo/TurnColor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/test/ChooserFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/test/ChooserFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/test/ChooserThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/test/ChooserThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/test/LoginFrame1.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/test/LoginFrame1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/test/ShadePanel2.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/test/ShadePanel2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/test/TimeThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/test/TimeThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/Admission.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/thread/Admission.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/CarouselFream.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/thread/CarouselFream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/CarouselThreadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/thread/CarouselThreadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/DrawImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/thread/DrawImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/DrawImageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/thread/DrawImageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/DrawLineFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/thread/DrawLineFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/DrawLineThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/thread/DrawLineThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/ImageThreadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/thread/ImageThreadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/JoinDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/thread/JoinDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/LocalTimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/thread/LocalTimeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/NumberFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/thread/NumberFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/NumberThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/thread/NumberThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/NumberThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/thread/NumberThreadDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/NumberThreadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/thread/NumberThreadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/ThreadTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/thread/ThreadTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/ThreadTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/thread/ThreadTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/TicketThreadTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/thread/TicketThreadTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/TicketThreadTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/thread/TicketThreadTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/TicketThreadTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/thread/TicketThreadTest3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/TimeCountdownFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/thread/TimeCountdownFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/timer/ClockTimerFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/timer/ClockTimerFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/timer/ComponentPaintFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/timer/ComponentPaintFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/timer/DrawCircleFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/timer/DrawCircleFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/timer/DrawCircleThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/timer/DrawCircleThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/timer/LoginFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/timer/LoginFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/timer/ShadeBackFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/timer/ShadeBackFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/timer/ShadeBackgroundImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/timer/ShadeBackgroundImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/timer/ShadePanelDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/timer/ShadePanelDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/timer/TimerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/timer/TimerDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/timer/TimerFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/timer/TimerFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/timer/TxtThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/timer/TxtThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/timer/WriterThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-study/src/com/soft1841/timer/WriterThread.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,149 +205,62 @@
           <entry key="project.closed" value="21" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="5" />
-          <entry key="project.open.time.11" value="5" />
-          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.11" value="6" />
+          <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.13" value="4" />
           <entry key="project.open.time.14" value="3" />
           <entry key="project.open.time.15" value="5" />
           <entry key="project.open.time.16" value="3" />
+          <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="38" />
+          <entry key="project.opened" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="619" />
-          <entry key="jpg" value="7" />
-          <entry key="png" value="11" />
+          <entry key="java" value="858" />
+          <entry key="jpg" value="12" />
+          <entry key="png" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="Image" value="18" />
-          <entry key="JAVA" value="619" />
+          <entry key="Image" value="30" />
+          <entry key="JAVA" value="858" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="100" />
-          <entry key="java" value="40829" />
+          <entry key="dummy" value="113" />
+          <entry key="java" value="46174" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="40829" />
-          <entry key="PLAIN_TEXT" value="100" />
+          <entry key="JAVA" value="46174" />
+          <entry key="PLAIN_TEXT" value="113" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/TimeCountdownFrame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="691">
-              <caret line="67" selection-start-line="67" selection-end-line="67" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2076#2077#0" expanded="true" />
-                <element signature="e#2147#2148#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/jsoup-study/src/jsoup/JsoupDemo.java">
+        <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/word/TencentFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="20" column="61" selection-start-line="20" selection-start-column="61" selection-end-line="20" selection-end-column="61" />
+            <state relative-caret-position="330">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/ThreadTest1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/JoinDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/util/src/com/java/util/java/erji/WxTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="29" column="63" selection-start-line="29" selection-start-column="63" selection-end-line="29" selection-end-column="63" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/ThreadTest2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/thread-study/src/week1/com/soft1841/timer/ClockTimerFrame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/thread-study/src/week1/com/soft1841/timer/ComponentPaintFrame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#547#909#0" expanded="true" />
-                <element signature="e#908#909#0" expanded="true" />
-                <element signature="e#1027#1447#0" expanded="true" />
-                <element signature="e#1446#1447#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/thread-study/src/week1/com/soft1841/timer/ShadeBackFrame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="64" column="6" selection-start-line="64" selection-start-column="6" selection-end-line="64" selection-end-column="6" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#4793#4794#0" expanded="true" />
+                <element signature="e#4827#4828#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -188,27 +282,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/bookdemo/JoinFrameTest.java" />
-        <option value="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/ThreadTest2.java" />
-        <option value="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/NumberFrameTestDemo.java" />
-        <option value="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/NumberFrameDemo.java" />
-        <option value="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/NumberThreadTestDemo.java" />
-        <option value="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/NumberFrame.java" />
-        <option value="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/NumberThread.java" />
-        <option value="$PROJECT_DIR$/swing-study/src/ApplicationDemo/NumberThreadDemo.java" />
-        <option value="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/NumberThreadDemo.java" />
-        <option value="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/bookdemo/BuysThreadTest.java" />
-        <option value="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/bookdemo/BuysFrame.java" />
-        <option value="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/test/MusicTest.java" />
-        <option value="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/test/MusicFrame.java" />
-        <option value="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/test/TimeThreadTest.java" />
-        <option value="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/test/TimeThread.java" />
-        <option value="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/test/ChooserThread.java" />
-        <option value="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/test/musicThread.java" />
-        <option value="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/test/MusicThread.java" />
-        <option value="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/test/ChooserFrame.java" />
-        <option value="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/bookdemo/TraficLights.java" />
-        <option value="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/timer/DrawCircleTimer.java" />
         <option value="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/timer/TimerDemo.java" />
         <option value="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/timer/Test.java" />
         <option value="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/timer/DrawCircle.java" />
@@ -239,6 +312,27 @@
         <option value="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/TimeCountdownFrame.java" />
         <option value="$PROJECT_DIR$/util/src/com/java/util/java/erji/WxTest.java" />
         <option value="$PROJECT_DIR$/jsoup-study/src/jsoup/JsoupDemo.java" />
+        <option value="$PROJECT_DIR$/jsoup-study/src/jsoup/JSoupDemo2.java" />
+        <option value="$PROJECT_DIR$/jsoup-study/src/jsoup/JsoupDemo2.java" />
+        <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/word/ArmyRunnable.java" />
+        <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/word/Test.java" />
+        <option value="$PROJECT_DIR$/jsoup-study/src/jsoup/JSoupDemo.java" />
+        <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/word/SuiAndTangDynastiesFrame.java" />
+        <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/bookdemo/RaceFrame.java" />
+        <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/bookdemo/TraficLights.java" />
+        <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/bookdemo/IconMoveTest.java" />
+        <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/word/CarThread.java" />
+        <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/timer/TimerFrame.java" />
+        <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/word/CrossTheRoad.java" />
+        <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/bookdemo/IconMove.java" />
+        <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/word/Carousel.java" />
+        <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/word/Test2.java" />
+        <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/test/BackgroundPanel.java" />
+        <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/test/SetFormBackImage.java" />
+        <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/word/FilmImages.java" />
+        <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/test/RoadMap.java" />
+        <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/word/Carousel2.java" />
+        <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/word/TencentFrame.java" />
       </list>
     </option>
   </component>
@@ -257,8 +351,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -271,6 +366,35 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thread-study" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thread-study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thread-study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="soft1841" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thread-study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="soft1841" type="462c0819:PsiDirectoryNode" />
+              <item name="word" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -300,65 +424,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jsoup-study" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jsoup-study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="swing-study" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="swing-study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="swing-study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ApplicationDemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="erji" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555545726000" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556355105877" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -379,11 +450,11 @@
       <recent name="week1.com.soft1841.thread" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\advanced\jsoup-study\jar" />
       <recent name="D:\advanced\thread-study\src\img" />
+      <recent name="D:\advanced\thread-study\src\img2" />
+      <recent name="D:\advanced\jsoup-study\src\jsoup" />
+      <recent name="D:\advanced\jsoup-study\jar" />
       <recent name="D:\advanced\swing-study" />
-      <recent name="D:\advanced\swing-study\src" />
-      <recent name="D:\advanced\swing-study\src\img" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -408,13 +479,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JsoupDemo">
-    <configuration name="JoinDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.com.soft1841.thread.JoinDemo" />
-      <module name="thread-study" />
+  <component name="RunManager" selected="Application.TencentFrame">
+    <configuration name="GridLayoutPositionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jframe.GridLayoutPositionDemo" />
+      <module name="swing-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week1.com.soft1841.thread.*" />
+          <option name="PATTERN" value="jframe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -422,12 +493,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JsoupDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jsoup.JsoupDemo" />
-      <module name="jsoup-study" />
+    <configuration name="RoadMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1841.test.RoadMap" />
+      <module name="thread-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jsoup.*" />
+          <option name="PATTERN" value="com.soft1841.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -435,12 +506,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginFrame1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.com.soft1841.test.LoginFrame1" />
+    <configuration name="SetFormBackImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1841.test.SetFormBackImage" />
       <module name="thread-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week1.com.soft1841.test.*" />
+          <option name="PATTERN" value="com.soft1841.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -448,12 +519,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TimeCountdownFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.com.soft1841.thread.TimeCountdownFrame" />
+    <configuration name="TencentFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1841.word.TencentFrame" />
       <module name="thread-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week1.com.soft1841.thread.*" />
+          <option name="PATTERN" value="com.soft1841.word.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -461,12 +532,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TimerFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.com.soft1841.timer.TimerFrame" />
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1841.word.Test2" />
       <module name="thread-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week1.com.soft1841.timer.*" />
+          <option name="PATTERN" value="com.soft1841.word.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -475,19 +546,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LoginFrame1" />
-      <item itemvalue="Application.TimerFrame" />
-      <item itemvalue="Application.JoinDemo" />
-      <item itemvalue="Application.TimeCountdownFrame" />
-      <item itemvalue="Application.JsoupDemo" />
+      <item itemvalue="Application.TencentFrame" />
+      <item itemvalue="Application.GridLayoutPositionDemo" />
+      <item itemvalue="Application.Test2" />
+      <item itemvalue="Application.SetFormBackImage" />
+      <item itemvalue="Application.RoadMap" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JsoupDemo" />
-        <item itemvalue="Application.JoinDemo" />
-        <item itemvalue="Application.TimeCountdownFrame" />
-        <item itemvalue="Application.TimerFrame" />
-        <item itemvalue="Application.LoginFrame1" />
+        <item itemvalue="Application.TencentFrame" />
+        <item itemvalue="Application.RoadMap" />
+        <item itemvalue="Application.SetFormBackImage" />
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.GridLayoutPositionDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -538,12 +609,15 @@
       <workItem from="1555023699547" duration="4854000" />
       <workItem from="1555126296373" duration="7045000" />
       <workItem from="1555239564220" duration="17374000" />
-      <workItem from="1555370195141" duration="24020000" />
+      <workItem from="1555370195141" duration="42749000" />
+      <workItem from="1555988037087" duration="9323000" />
+      <workItem from="1556103064480" duration="17163000" />
+      <workItem from="1556257886742" duration="20032000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="263355000" />
+    <option name="totallyTimeSpent" value="328602000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -555,10 +629,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49838188" visible="true" weight="0.15724947" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49838188" visible="true" weight="0.16684435" />
       <window_info id="Structure" order="1" sideWeight="0.50161815" side_tool="true" weight="0.13486141" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -567,14 +641,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32899022" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33224756" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.44625407" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.016286645" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.34961998" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32681867" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -588,7 +662,7 @@
       <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49838188" visible="true" weight="0.3400853" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49838188" visible="true" weight="0.31947485" />
       <window_info id="Structure" order="1" sideWeight="0.50161815" side_tool="true" weight="0.13486141" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -597,14 +671,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33223686" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.44625407" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.016286645" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.34961998" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32681867" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -625,447 +699,383 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/thread-study/src/week1/com/soft1841/timer/Txt.java" />
-    <entry file="file://$USER_HOME$/Documents/WeChat Files/an158789/FileStorage/File/2019-04/CircleFrame(1).java">
+    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/thread/ThreadTest1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="60">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/thread-study/src/week1/com/soft1841/timer/TimerDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#207#350#0" expanded="true" />
-            <element signature="e#349#350#0" expanded="true" />
-            <element signature="e#378#524#0" expanded="true" />
-            <element signature="e#523#524#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/WeChat Files/an158789/FileStorage/File/2019-04/TimerFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="94" column="34" lean-forward="true" selection-start-line="94" selection-start-column="34" selection-end-line="94" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread-study/src/week1/com/soft1841/timer/DrawCircleThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/WeChat Files/an158789/FileStorage/File/2019-04/ShadeBackFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="508">
-          <caret line="125" column="1" lean-forward="true" selection-start-line="2" selection-end-line="125" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/swing-study/src/ApplicationDemo/LoginFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-150">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread-study/src/img/background1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/javax/swing/JLabel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="109" column="7" lean-forward="true" selection-start-line="109" selection-end-line="110" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/WeChat Files/an158789/FileStorage/File/2019-04/LoginFrame(1).java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="27" lean-forward="true" selection-end-line="152" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/WeChat Files/an158789/FileStorage/File/2019-04/LoginFrame(2).java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="16" column="23" lean-forward="true" selection-end-line="120" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/WeChat Files/an158789/FileStorage/File/2019-04/LoginFrame(3).java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="123" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/awt/Component.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1528">
-          <caret line="2258" column="7" lean-forward="true" selection-start-line="2258" selection-start-column="7" selection-end-line="2258" selection-end-column="7" />
-          <folding>
-            <element signature="e#77478#77479#0" expanded="true" />
-            <element signature="e#77522#77523#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread-study/src/week1/com/soft1841/timer/LoginFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-350">
-          <caret line="83" column="6" selection-start-line="83" selection-start-column="6" selection-end-line="83" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2506#2507#0" expanded="true" />
-            <element signature="e#2538#2539#0" expanded="true" />
-            <element signature="e#2580#2581#0" expanded="true" />
-            <element signature="e#2639#2640#0" expanded="true" />
-            <element signature="e#3285#3286#0" expanded="true" />
-            <element signature="e#3323#3324#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/WeChat Files/an158789/FileStorage/File/2019-04/LoginFrame(4).java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="511">
-          <caret line="96" lean-forward="true" selection-start-line="96" selection-end-line="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/WeChat Files/an158789/FileStorage/File/2019-04/ShadePanel1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="511">
-          <caret line="58" lean-forward="true" selection-start-line="8" selection-end-line="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#356#496#0" expanded="true" />
-            <element signature="e#495#496#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread-study/src/week1/com/soft1841/test/ShadePanel2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-689">
-          <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#359#499#0" expanded="true" />
-            <element signature="e#498#499#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread-study/src/week1/com/soft1841/timer/ShadeBackgroundImage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-930">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread-study/src/week1/com/soft1841/test/LoginFrame1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread-study/src/week1/com/soft1841/timer/ShadePanelDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread-study/src/week1/com/soft1841/timer/TimerFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1085">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread-study/src/week1/com/soft1841/timer/TxtThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread-study/src/week1/com/soft1841/timer/WriterThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/WeChat Files/an158789/FileStorage/File/2019-04/TimeTest2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
-          <folding>
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/WeChat Files/an158789/FileStorage/File/2019-04/TimeFrame(1).java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/WeChat Files/an158789/FileStorage/File/2019-04/TimeTest1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
-          <folding>
-            <element signature="e#224#225#0" expanded="true" />
-            <element signature="e#278#279#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-            <element signature="e#408#409#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/ImageThreadTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/DrawLineFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/DrawImageTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-149">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/NumberThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/NumberThreadDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/LocalTimeTest.java">
+    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/thread/NumberThreadTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/CarouselFream.java">
+    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/timer/ShadeBackgroundImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-870">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/timer/ShadePanelDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/test/ShadePanel2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/test/TimeThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/timer/TimerDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/timer/WriterThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/timer/TxtThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/timer/TimerFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="39" column="44" lean-forward="true" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3074#3075#0" expanded="true" />
+            <element signature="e#3106#3107#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/bookdemo/RaceFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3241">
+          <caret line="125" column="17" lean-forward="true" selection-start-line="125" selection-start-column="17" selection-end-line="125" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/word/CrossTheRoad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="26" column="26" lean-forward="true" selection-start-line="25" selection-start-column="6" selection-end-line="26" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/bookdemo/IconMoveTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/bookdemo/IconMove.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/thread/CarouselFream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/Admission.java">
+    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/thread/DrawImageTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="-420">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/thread-study/src/week1/com/soft1841/bookdemo/TraficLights.java">
+    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/thread/CarouselThreadTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-180">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swing-study/src/ApplicationDemo/LoginFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swing-study/src/ApplicationDemo/JFileChooseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1442">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swing-study/src/ApplicationDemo/CardLayoutTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-870">
+          <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swing-study/src/ApplicationDemo/BoxLayoutTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swing-study/src/ApplicationDemo/ImageViewerFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1153">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swing-study/src/ApplicationDemo/TxtReaderFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1232">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swing-study/src/instance/JButtonTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/thread-study/src/week1/com/soft1841/bookdemo/JoinThreadTest2.java">
+    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/word/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="180">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/thread-study/src/week1/com/soft1841/bookdemo/JoinThreadTest1.java">
+    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/word/CarThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="420">
+          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+          <folding>
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/thread-study/src/week1/com/soft1841/bookdemo/JoinFrameTest.java">
+    <entry file="file://$PROJECT_DIR$/swing-study/src/jframe/BorderLay.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/thread-study/src/week1/com/soft1841/bookdemo/IconMoveTest.java">
+    <entry file="file://$PROJECT_DIR$/swing-study/src/jframe/GridLayoutPosition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="270">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/thread-study/src/week1/com/soft1841/timer/DrawCircleFrame.java">
+    <entry file="file://$PROJECT_DIR$/swing-study/src/jframe/GridLayoutPositionDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="871">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="270">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/word/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/TimeCountdownThread.java">
+    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/bookdemo/TurnColor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-          <folding>
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#219#220#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-254">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/thread-study/src/week1/com/soft1841/timer/ClockTimerFrame.java">
+    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/timer/DrawCircleThread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/timer/DrawCircleFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/timer/ClockTimerFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/timer/ComponentPaintFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-344">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/bookdemo/TraficLights.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="36" column="49" lean-forward="true" selection-start-line="36" selection-start-column="49" selection-end-line="36" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread-study/src/img/Penguins.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/word/FilmImages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/thread-study/src/week1/com/soft1841/timer/ComponentPaintFrame.java">
+    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/test/SetFormBackImage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#547#909#0" expanded="true" />
-            <element signature="e#908#909#0" expanded="true" />
-            <element signature="e#1027#1447#0" expanded="true" />
-            <element signature="e#1446#1447#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread-study/src/week1/com/soft1841/timer/ShadeBackFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="64" column="6" selection-start-line="64" selection-start-column="6" selection-end-line="64" selection-end-column="6" />
+        <state relative-caret-position="360">
+          <caret line="24" column="32" lean-forward="true" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/ThreadTest2.java">
+    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/test/BackgroundPanel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="-574">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#492#493#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/ThreadTest1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/JoinDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/util/src/com/java/util/java/erji/WxTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="29" column="63" selection-start-line="29" selection-start-column="63" selection-end-line="29" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jsoup-study/src/jsoup.java">
+    <entry file="file://$PROJECT_DIR$/thread-study/src/img2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/TimeCountdownFrame.java">
+    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/test/RoadMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="691">
-          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        <state relative-caret-position="266">
+          <caret line="48" column="16" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2076#2077#0" expanded="true" />
-            <element signature="e#2147#2148#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jsoup-study/src/jsoup/JsoupDemo.java">
+    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/timer/LoginFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="20" column="61" selection-start-line="20" selection-start-column="61" selection-end-line="20" selection-end-column="61" />
+        <state relative-caret-position="421">
+          <caret line="101" column="34" selection-start-line="101" selection-start-column="34" selection-end-line="101" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/word/Carousel2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="37" column="22" lean-forward="true" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/word/Carousel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread-study/src/img/33.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread-study/src/img/32.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread-study/src/img/30.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread-study/src/img/31.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread-study/src/img/34.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/word/TencentFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4793#4794#0" expanded="true" />
+            <element signature="e#4827#4828#0" expanded="true" />
           </folding>
         </state>
       </provider>
