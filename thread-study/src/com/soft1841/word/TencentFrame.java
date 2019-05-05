@@ -38,7 +38,6 @@ public class TencentFrame extends JFrame {
             public void actionPerformed(ActionEvent e) {
                 MyJDialog1 dialog1 = new MyJDialog1(TencentFrame.this);
                 dialog1.setVisible(true);
-
             }
         });
         buttonPanel.add(btn2);
@@ -120,6 +119,7 @@ public class TencentFrame extends JFrame {
         centralPanel.add(f1);
 
         //轮播面板
+
         topPanel = new JPanel();
         add(topPanel);
         topPanel.setBounds(185,80,980,310);
@@ -221,7 +221,6 @@ class MyJDialog2 extends JDialog{
         a2.setIcon(new ImageIcon(TencentFrame.class.getResource("/img/34.png")));
         largePanel.add(a2);
         //下部电影
-
     }
 }
 class MyDialog3 extends JDialog{
@@ -273,6 +272,5 @@ class MyDialog3 extends JDialog{
         JLabel a12 = new JLabel();
         a12.setIcon(new ImageIcon(TencentFrame.class.getResource("/img/44.png")));
         largePanel.add(a12);
-
     }
 }
