@@ -18,16 +18,16 @@ public class Server3 {
         System.out.println("服务器启动");
         while (true){
             Socket socket = serverSocket.accept();
-            ServerThread3 server = new ServerThread3(socket);
+            ServerThread3 server = new ServerThread3();
+            server.setSocket(socket);
             new Thread(server).start();
         }
-
     }
 }
 class ServerThread3 implements Runnable{
-private Socket socket;
+    private Socket socket;
 
-    public ServerThread3(Socket socket){
+    public void setSocket(Socket socket) {
         this.socket = socket;
     }
     @Override
