@@ -2,11 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ff7bd6d-3e09-4ee0-9aa4-caddf7ad2ba5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/network-programming/src/Socket2/Client4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/network-programming/src/Socket2/Client7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/network-programming/src/Socket2/Server4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/network-programming/src/Socket2/Server7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network-programming/src/Socket2/ClientFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network-programming/src/Socket2/ServerFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network-programming/src/udp/UDPClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network-programming/src/udp/UDPServer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsoup-study/src/jsoup/JSoupDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/jsoup-study/src/jsoup/JSoupDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network-programming/src/Socket2/Client4.java" beforeDir="false" afterPath="$PROJECT_DIR$/network-programming/src/Socket2/Client4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network-programming/src/Socket2/Server4.java" beforeDir="false" afterPath="$PROJECT_DIR$/network-programming/src/Socket2/Server4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network-programming/src/Socket2/Server7.java" beforeDir="false" afterPath="$PROJECT_DIR$/network-programming/src/Socket2/Server7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/network-programming/Socket2/Client4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/network-programming/Socket2/Client4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/network-programming/Socket2/Server4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/network-programming/Socket2/Server4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/network-programming/Socket2/Server7$ChatThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/network-programming/Socket2/Server7$ChatThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/network-programming/Socket2/Server7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/network-programming/Socket2/Server7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/network-programming/Socket2/ServerThread4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/network-programming/Socket2/ServerThread4.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +50,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="2" />
-          <entry key="java" value="936" />
+          <entry key="java" value="947" />
           <entry key="jpg" value="12" />
           <entry key="png" value="18" />
         </counts>
@@ -50,18 +59,18 @@
         <counts>
           <entry key="CLASS" value="2" />
           <entry key="Image" value="30" />
-          <entry key="JAVA" value="936" />
+          <entry key="JAVA" value="947" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="113" />
-          <entry key="java" value="53015" />
+          <entry key="java" value="53796" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="53015" />
+          <entry key="JAVA" value="53796" />
           <entry key="PLAIN_TEXT" value="113" />
         </counts>
       </usages-collector>
@@ -72,8 +81,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/network-programming/src/Socket2/Server7.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1022">
-              <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+            <state relative-caret-position="-29">
+              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -82,10 +91,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/network-programming/src/Socket2/Client7.java">
+        <entry file="file://$PROJECT_DIR$/network-programming/src/udp/UDPClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="812">
-              <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
+            <state relative-caret-position="691">
+              <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -94,14 +103,75 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/network-programming/src/Socket2/Server4.java">
+        <entry file="file://$PROJECT_DIR$/jsoup-study/src/jsoup/JSoupDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="61">
-              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="2" />
+            <state relative-caret-position="510">
+              <caret line="17" column="64" selection-start-line="17" selection-start-column="64" selection-end-line="17" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#505#506#0" expanded="true" />
-                <element signature="e#541#542#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jsoup-study/src/jsoup/JsoupDemo2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/network-programming/src/udp/UDPServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="840">
+              <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Documents/WeChat Files/an158789/FileStorage/File/2019-05/ServerFrame(1).java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2790">
+              <caret line="103" lean-forward="true" selection-start-line="2" selection-end-line="103" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Documents/WeChat Files/an158789/FileStorage/File/2019-05/ClientFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="811">
+              <caret line="74" lean-forward="true" selection-start-line="2" selection-end-line="74" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/network-programming/src/Socket2/ServerFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/network-programming/src/Socket2/ClientFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1020">
+              <caret line="43" column="50" selection-start-line="43" selection-start-column="50" selection-end-line="43" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -110,8 +180,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/network-programming/src/Socket2/Client4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="781">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="355">
+              <caret line="20" column="38" lean-forward="true" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -135,13 +205,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/TimeCountdownThread.java" />
-        <option value="$PROJECT_DIR$/thread-study/src/week1/com/soft1841/thread/TimeCountdownFrame.java" />
-        <option value="$PROJECT_DIR$/util/src/com/java/util/java/erji/WxTest.java" />
-        <option value="$PROJECT_DIR$/jsoup-study/src/jsoup/JsoupDemo.java" />
-        <option value="$PROJECT_DIR$/jsoup-study/src/jsoup/JSoupDemo2.java" />
-        <option value="$PROJECT_DIR$/jsoup-study/src/jsoup/JsoupDemo2.java" />
-        <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/word/ArmyRunnable.java" />
         <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/word/Test.java" />
         <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/word/SuiAndTangDynastiesFrame.java" />
         <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/bookdemo/RaceFrame.java" />
@@ -159,7 +222,6 @@
         <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/word/Carousel.java" />
         <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/word/CrossTheRoad.java" />
         <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/word/TencentFrame.java" />
-        <option value="$PROJECT_DIR$/jsoup-study/src/jsoup/JSoupDemo.java" />
         <option value="$PROJECT_DIR$/jsoup-study/src/jsoup/TestMP3.java" />
         <option value="$PROJECT_DIR$/network-programming/src/Client.java" />
         <option value="$PROJECT_DIR$/network-programming/src/Server.java" />
@@ -183,9 +245,17 @@
         <option value="$PROJECT_DIR$/network-programming/src/Socket2/Client3.java" />
         <option value="$PROJECT_DIR$/network-programming/src/Socket2/Test.java" />
         <option value="$PROJECT_DIR$/network-programming/src/Socket2/Client7.java" />
-        <option value="$PROJECT_DIR$/network-programming/src/Socket2/Server7.java" />
-        <option value="$PROJECT_DIR$/network-programming/src/Socket2/Client4.java" />
         <option value="$PROJECT_DIR$/network-programming/src/Socket2/Server4.java" />
+        <option value="$PROJECT_DIR$/network-programming/src/Socket2/Client4.java" />
+        <option value="$USER_HOME$/Documents/WeChat Files/an158789/FileStorage/File/2019-05/ClientFrame.java" />
+        <option value="$USER_HOME$/Documents/WeChat Files/an158789/FileStorage/File/2019-05/ServerFrame.java" />
+        <option value="$PROJECT_DIR$/network-programming/src/Socket2/Server7.java" />
+        <option value="$PROJECT_DIR$/network-programming/src/Socket/UDPServer.java" />
+        <option value="$PROJECT_DIR$/network-programming/src/Socket/UDPClient.java" />
+        <option value="$PROJECT_DIR$/network-programming/src/Socket2/ServerFrame.java" />
+        <option value="$PROJECT_DIR$/network-programming/src/udp/UDPClient.java" />
+        <option value="$PROJECT_DIR$/network-programming/src/Socket2/ClientFrame.java" />
+        <option value="$PROJECT_DIR$/jsoup-study/src/jsoup/JSoupDemo.java" />
       </list>
     </option>
   </component>
@@ -205,7 +275,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
+    <option name="x" value="883" />
+    <option name="y" value="61" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -228,19 +299,6 @@
               <item name="advanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="network-programming" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="network-programming" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Socket2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="network-programming" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Socket2" type="462c0819:PsiDirectoryNode" />
-              <item name="Server4.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -281,7 +339,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557358567988" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557528658206" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -331,9 +389,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client4">
-    <configuration name="Client4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Socket2.Client4" />
+  <component name="RunManager" selected="Application.JSoupDemo">
+    <configuration name="ClientFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Socket2.ClientFrame" />
       <module name="network-programming" />
       <extension name="coverage">
         <pattern>
@@ -345,8 +403,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Socket2.Client7" />
+    <configuration name="JSoupDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jsoup.JSoupDemo" />
+      <module name="jsoup-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jsoup.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Socket2.ServerFrame" />
       <module name="network-programming" />
       <extension name="coverage">
         <pattern>
@@ -358,12 +429,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Server4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Socket2.Server4" />
+    <configuration name="UDPClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="udp.UDPClient" />
       <module name="network-programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Socket2.*" />
+          <option name="PATTERN" value="udp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -371,25 +442,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Server7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Socket2.Server7" />
+    <configuration name="UDPServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="udp.UDPServer" />
       <module name="network-programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Socket2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Socket2.Test" />
-      <module name="network-programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Socket2.*" />
+          <option name="PATTERN" value="udp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -398,19 +456,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.Server4" />
-      <item itemvalue="Application.Client4" />
-      <item itemvalue="Application.Server7" />
-      <item itemvalue="Application.Client7" />
+      <item itemvalue="Application.ClientFrame" />
+      <item itemvalue="Application.UDPServer" />
+      <item itemvalue="Application.UDPClient" />
+      <item itemvalue="Application.ServerFrame" />
+      <item itemvalue="Application.JSoupDemo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Client4" />
-        <item itemvalue="Application.Server4" />
-        <item itemvalue="Application.Server7" />
-        <item itemvalue="Application.Client7" />
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.JSoupDemo" />
+        <item itemvalue="Application.UDPClient" />
+        <item itemvalue="Application.UDPServer" />
+        <item itemvalue="Application.ClientFrame" />
+        <item itemvalue="Application.ServerFrame" />
       </list>
     </recent_temporary>
   </component>
@@ -471,12 +529,12 @@
       <workItem from="1557036514678" duration="21305000" />
       <workItem from="1557180298017" duration="9754000" />
       <workItem from="1557267569363" duration="7616000" />
-      <workItem from="1557357707654" duration="820000" />
+      <workItem from="1557357707654" duration="12352000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="376890000" />
+    <option name="totallyTimeSpent" value="388422000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -489,9 +547,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49838188" visible="true" weight="0.13859275" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49838188" visible="true" weight="0.13859275" />
       <window_info id="Structure" order="1" sideWeight="0.50161815" side_tool="true" weight="0.13486141" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -507,7 +564,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.34961998" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.34961998" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32681867" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -558,35 +615,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/thread-study/src/img/34.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/word/Carousel2.java" />
-    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/word/Test2.java" />
-    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/word/CarThread.java" />
-    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/word/CrossTheRoad.java" />
-    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/word/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/colletion-study/src/com/soft1841/map/PokerDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jsoup-study/src/jsoup/TestMP3.java" />
-    <entry file="file://$PROJECT_DIR$/jsoup-study/src/jsoup/JSoupDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/swing-study/src/ApplicationDemo/CardLayoutTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -605,13 +634,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jsoup-study/src/jsoup/JsoupDemo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -852,6 +874,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/network-programming/src/Socket2/Server4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#469#470#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/network-programming/src/Socket2/Client7.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="812">
@@ -862,10 +896,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/network-programming/src/Socket2/Server7.java">
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/an158789/FileStorage/File/2019-05/ServerFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1022">
-          <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+        <state relative-caret-position="2310">
+          <caret line="86" lean-forward="true" selection-start-line="2" selection-end-line="86" />
+          <folding>
+            <element signature="e#1975#1976#0" expanded="true" />
+            <element signature="e#2008#2009#0" expanded="true" />
+            <element signature="e#2134#2135#0" expanded="true" />
+            <element signature="e#2178#2179#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/an158789/FileStorage/File/2019-05/ClientFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="811">
+          <caret line="74" lean-forward="true" selection-start-line="2" selection-end-line="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/an158789/FileStorage/File/2019-05/ServerFrame(1).java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2790">
+          <caret line="103" lean-forward="true" selection-start-line="2" selection-end-line="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/network-programming/src/Socket2/ClientFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="43" column="50" selection-start-line="43" selection-start-column="50" selection-end-line="43" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -874,22 +938,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/network-programming/src/Socket2/Client4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="781">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="355">
+          <caret line="20" column="38" lean-forward="true" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/network-programming/src/Socket2/Server4.java">
+    <entry file="file://$PROJECT_DIR$/network-programming/src/Socket2/ServerFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="2" />
+        <state relative-caret-position="240">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/network-programming/src/Socket2/Server7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-29">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#505#506#0" expanded="true" />
-            <element signature="e#541#542#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/network-programming/src/udp/UDPServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/network-programming/src/udp/UDPClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="691">
+          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsoup-study/src/jsoup/JsoupDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsoup-study/src/jsoup/JSoupDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="17" column="64" selection-start-line="17" selection-start-column="64" selection-end-line="17" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

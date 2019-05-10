@@ -24,7 +24,6 @@ public class Server7 extends JFrame implements Runnable {
         ss = new ServerSocket(9999);
         new Thread(this).start();
     }
-
     @Override
     public void run() {
         try {

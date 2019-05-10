@@ -8,37 +8,36 @@ import java.net.Socket;
  *2019.05.09
  */
 public class Server4 {
-    public static void main(String[] args) throws IOException {
-        ServerSocket serverSocket = new ServerSocket(10086);
-        System.out.println("服务器启动");
+    public static void main(String[] args)throws IOException {
+        ServerSocket ss = new ServerSocket(10086);
+        System.out.println("服务器启动...");
         while (true){
-            Socket socket = serverSocket.accept();
-            ServerThread4 server = new ServerThread4(socket);
-            new Thread(server).start();
+            Socket socket = ss.accept();
+            ServerThread4 st = new ServerThread4();
+            st.setSocket(socket);
+            Thread thread = new Thread(st);
+            thread.start();
         }
     }
 }
 class ServerThread4 implements Runnable{
     private Socket socket;
-
-    public ServerThread4(Socket socket) {
+    public void setSocket(Socket socket) {
         this.socket = socket;
     }
     @Override
     public void run() {
-        System.out.println("客户端"+socket.getInetAddress()+"连接成功！");
-        try {
-            File file = new File("D:/image/10.png");
-            InputStream inputStream = new FileInputStream(file);
-            byte[] b = new byte[(int) file.length()];
-            inputStream.read(b);
-            OutputStream outputStream = socket.getOutputStream();
-            outputStream.write(b);
-            inputStream.close();
-            outputStream.close();
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
-        } catch (IOException e) {
+        System.out.println("客户端" + socket.getInetAddress() + "连接成功...");
+        try{
+            File file = new File("D:/image/11.png");
+            InputStream in = new FileInputStream(file);
+            byte[] bytes = new byte[(int) file.length()];
+            in.read(bytes);
+            OutputStream out = socket.getOutputStream();
+            out.write(bytes);
+            in.close();
+            out.close();
+        }catch (IOException e){
             e.printStackTrace();
         }
     }
