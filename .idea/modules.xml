@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/colletion-study/colletion-study.iml" filepath="$PROJECT_DIR$/colletion-study/colletion-study.iml" />
       <module fileurl="file://$PROJECT_DIR$/util/colletion-study.iml" filepath="$PROJECT_DIR$/util/colletion-study.iml" />
       <module fileurl="file://$PROJECT_DIR$/util/colletions-study.iml" filepath="$PROJECT_DIR$/util/colletions-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gui-form/gui-form.iml" filepath="$PROJECT_DIR$/gui-form/gui-form.iml" />
       <module fileurl="file://$PROJECT_DIR$/io-study/io-study.iml" filepath="$PROJECT_DIR$/io-study/io-study.iml" />
       <module fileurl="file://$PROJECT_DIR$/jsoup-study/jsoup-study.iml" filepath="$PROJECT_DIR$/jsoup-study/jsoup-study.iml" />
       <module fileurl="file://$PROJECT_DIR$/network-programming/network-programming.iml" filepath="$PROJECT_DIR$/network-programming/network-programming.iml" />
