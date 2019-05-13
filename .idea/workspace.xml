@@ -2,13 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ff7bd6d-3e09-4ee0-9aa4-caddf7ad2ba5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/gui-form/gui-form.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/gui1/TimLoginFream.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/gui1/TimLoginFream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/login.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/qq1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/gui1/CloudMusicFream.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/gui1/CloudMusicFream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/gui1/TencentFream.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/gui1/TencentFream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui-form/src/gui1/TimLoginFream.form" beforeDir="false" afterPath="$PROJECT_DIR$/gui-form/src/gui1/TimLoginFream.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui-form/src/gui1/TimLoginFream.java" beforeDir="false" afterPath="$PROJECT_DIR$/gui-form/src/gui1/TimLoginFream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui-form/src/img/1 (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui-form/src/img/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/gui-form/src/img/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/gui-form/gui1/TimLoginFream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/gui-form/gui1/TimLoginFream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/gui-form/img/1 (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/gui-form/img/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/gui-form/img/3.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +55,7 @@
     <session id="-925477666">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="23" />
+          <entry key="project.closed" value="25" />
           <entry key="project.open.time.0" value="5" />
           <entry key="project.open.time.1" value="5" />
           <entry key="project.open.time.11" value="6" />
@@ -28,7 +63,7 @@
           <entry key="project.open.time.13" value="5" />
           <entry key="project.open.time.14" value="4" />
           <entry key="project.open.time.15" value="6" />
-          <entry key="project.open.time.16" value="3" />
+          <entry key="project.open.time.16" value="4" />
           <entry key="project.open.time.17" value="2" />
           <entry key="project.open.time.18" value="2" />
           <entry key="project.open.time.19" value="1" />
@@ -37,53 +72,67 @@
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="49" />
+          <entry key="project.opened" value="50" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="2" />
-          <entry key="form" value="4" />
-          <entry key="java" value="950" />
+          <entry key="form" value="11" />
+          <entry key="java" value="966" />
           <entry key="jpg" value="12" />
-          <entry key="png" value="18" />
+          <entry key="png" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="2" />
-          <entry key="GUI_DESIGNER_FORM" value="4" />
-          <entry key="Image" value="30" />
-          <entry key="JAVA" value="950" />
+          <entry key="GUI_DESIGNER_FORM" value="11" />
+          <entry key="Image" value="39" />
+          <entry key="JAVA" value="966" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="113" />
-          <entry key="java" value="53904" />
+          <entry key="dummy" value="144" />
+          <entry key="java" value="54021" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="53904" />
-          <entry key="PLAIN_TEXT" value="113" />
+          <entry key="JAVA" value="54021" />
+          <entry key="PLAIN_TEXT" value="144" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/gui-form/src/gui1/TimLoginFream.java">
+        <entry file="file://$PROJECT_DIR$/gui-form/src/gui1/TencentFream.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+              <caret line="11" column="46" lean-forward="true" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gui-form/src/gui1/TimLoginFream.form">
+        <entry file="file://$PROJECT_DIR$/gui-form/src/gui1/TencentFream.form">
+          <provider selected="true" editor-type-id="ui-designer" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gui-form/src/gui1/CloudMusicFream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="268">
+              <caret line="28" column="60" selection-start-line="28" selection-start-column="60" selection-end-line="28" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gui-form/src/gui1/CloudMusicFream.form">
           <provider selected="true" editor-type-id="ui-designer" />
         </entry>
       </file>
@@ -103,13 +152,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/bookdemo/IconMoveTest.java" />
-        <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/word/CarThread.java" />
-        <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/timer/TimerFrame.java" />
-        <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/bookdemo/IconMove.java" />
-        <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/word/Test2.java" />
-        <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/test/BackgroundPanel.java" />
-        <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/test/SetFormBackImage.java" />
         <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/word/FilmImages.java" />
         <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/test/RoadMap.java" />
         <option value="$PROJECT_DIR$/thread-study/src/com/soft1841/word/Carousel2.java" />
@@ -152,8 +194,15 @@
         <option value="$PROJECT_DIR$/jsoup-study/src/jsoup/JSoupDemo.java" />
         <option value="$PROJECT_DIR$/gui-form/src/gui1/TimLonginFream.form" />
         <option value="$PROJECT_DIR$/gui-form/src/gui1/TimLonginFream.java" />
-        <option value="$PROJECT_DIR$/gui-form/src/gui1/TimLoginFream.form" />
         <option value="$PROJECT_DIR$/gui-form/src/gui1/TimLoginFream.java" />
+        <option value="$PROJECT_DIR$/gui-form/src/gui1/TimLoginFream.form" />
+        <option value="$PROJECT_DIR$/gui-form/src/gui1/CloudMusicFream.java" />
+        <option value="$PROJECT_DIR$/gui-form/src/gui1/CloudMusicFream.form" />
+        <option value="$PROJECT_DIR$/gui-form/src/gui1/NiukewangFream.java" />
+        <option value="$PROJECT_DIR$/gui-form/src/gui1/NiukewangFream.form" />
+        <option value="$PROJECT_DIR$/gui-form/src/gui1/YouToBeFream.java" />
+        <option value="$PROJECT_DIR$/gui-form/src/gui1/YouToBeFream.form" />
+        <option value="$PROJECT_DIR$/gui-form/src/gui1/TencentFream.form" />
       </list>
     </option>
   </component>
@@ -186,35 +235,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gui-form" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gui-form" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gui-form" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="gui1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gui-form" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="gui1" type="462c0819:PsiDirectoryNode" />
-              <item name="TimLoginFream" type="e9f4de52:FormNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -244,13 +265,48 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gui-form" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gui-form" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gui-form" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="gui1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gui-form" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="gui1" type="462c0819:PsiDirectoryNode" />
+              <item name="TencentFream" type="e9f4de52:FormNode" />
+            </path>
+            <path>
+              <item name="advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gui-form" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="168" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557710755378" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557785888468" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -267,25 +323,25 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="week1.com.soft1841.test" />
     </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="week1.com.soft1841.thread" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\advanced\gui-form\src\img" />
+      <recent name="D:\advanced\thread-study\src\img" />
+      <recent name="D:\advanced\thread-study\src\img2" />
+      <recent name="D:\advanced\jsoup-study\src\jsoup" />
+      <recent name="D:\advanced\jsoup-study\jar" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\advanced\gui-form\src\img" />
       <recent name="D:\advanced\gui-form\src" />
       <recent name="D:\advanced\thread-study\src\img" />
       <recent name="D:\advanced\swing-study\src\img" />
       <recent name="D:\advanced\io-study\src\img" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\advanced\thread-study\src\img" />
-      <recent name="D:\advanced\thread-study\src\img2" />
-      <recent name="D:\advanced\jsoup-study\src\jsoup" />
-      <recent name="D:\advanced\jsoup-study\jar" />
-      <recent name="D:\advanced\swing-study" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="week1.com.soft1841.thread" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -300,13 +356,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TimLoginFream">
-    <configuration name="JSoupDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jsoup.JSoupDemo" />
-      <module name="jsoup-study" />
+  <component name="RunManager" selected="Application.URLDemo">
+    <configuration name="CloudMusicFream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui1.CloudMusicFream" />
+      <module name="gui-form" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jsoup.*" />
+          <option name="PATTERN" value="gui1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TencentFream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui1.TencentFream" />
+      <module name="gui-form" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gui1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -340,25 +409,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UDPClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="udp.UDPClient" />
+    <configuration name="URLDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="url.URLDemo" />
       <module name="network-programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="udp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UDPServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="udp.UDPServer" />
-      <module name="network-programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="udp.*" />
+          <option name="PATTERN" value="url.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -367,19 +423,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.UDPServer" />
-      <item itemvalue="Application.UDPClient" />
-      <item itemvalue="Application.JSoupDemo" />
       <item itemvalue="Application.TimLonginFream" />
       <item itemvalue="Application.TimLoginFream" />
+      <item itemvalue="Application.CloudMusicFream" />
+      <item itemvalue="Application.TencentFream" />
+      <item itemvalue="Application.URLDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.URLDemo" />
+        <item itemvalue="Application.TencentFream" />
+        <item itemvalue="Application.CloudMusicFream" />
         <item itemvalue="Application.TimLoginFream" />
         <item itemvalue="Application.TimLonginFream" />
-        <item itemvalue="Application.JSoupDemo" />
-        <item itemvalue="Application.UDPClient" />
-        <item itemvalue="Application.UDPServer" />
       </list>
     </recent_temporary>
   </component>
@@ -441,12 +497,13 @@
       <workItem from="1557180298017" duration="9754000" />
       <workItem from="1557267569363" duration="7616000" />
       <workItem from="1557357707654" duration="13321000" />
-      <workItem from="1557705066619" duration="5477000" />
+      <workItem from="1557705066619" duration="5981000" />
+      <workItem from="1557731258981" duration="13200000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="394868000" />
+    <option name="totallyTimeSpent" value="408572000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -461,7 +518,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49838188" visible="true" weight="0.16577825" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49838188" visible="true" weight="0.1673774" />
       <window_info id="Structure" order="1" sideWeight="0.50161815" side_tool="true" weight="0.13486141" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -470,14 +527,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32899022" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.44625407" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.34961998" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.34924078" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32681867" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -528,89 +585,11 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/swing-study/src/ApplicationDemo/ImageViewerFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/test/RoadMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="812">
-          <caret line="48" column="16" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/word/Carousel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1350">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/word/TencentFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5600">
-          <caret line="226" column="6" selection-start-line="226" selection-start-column="6" selection-end-line="226" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/timer/TimerDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/bookdemo/BuysFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/bookdemo/BuysThreadTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/bookdemo/IconMove.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread-study/src/com/soft1841/bookdemo/JoinFrameTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/net/DualStackPlainSocketImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="105" selection-start-line="105" selection-end-line="105" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/network-programming/src/Socket/Test.class" />
     <entry file="file://$PROJECT_DIR$/network-programming/src/Socket/Test.java" />
     <entry file="file://$USER_HOME$/Documents/WeChat Files/an158789/FileStorage/File/2019-05/Server2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-30">
           <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/network-programming/src/Socket/GreetingClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -642,9 +621,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="542">
           <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -652,19 +628,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="14" selection-start-line="14" selection-end-line="46" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/network-programming/src/Socket/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="13" column="49" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -672,29 +635,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/network-programming/src/Socket/Server1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/network-programming/src/Socket2/Client2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -716,9 +656,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -726,19 +663,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/network-programming/src/Socket2/Client3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="13" column="45" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -764,13 +688,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/network-programming/src/Socket2/Client7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="812">
-          <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Documents/WeChat Files/an158789/FileStorage/File/2019-05/ServerFrame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2310">
@@ -778,23 +695,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/network-programming/src/Socket2/Server7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jsoup-study/src/jsoup/JSoupDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="17" column="64" selection-start-line="17" selection-start-column="64" selection-end-line="17" selection-end-column="64" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -802,16 +706,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/network-programming/src/udp/UDPServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="36" selection-start-line="5" selection-end-line="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -826,9 +720,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1950">
           <caret line="74" selection-start-line="2" selection-end-line="74" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -839,10 +730,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/network-programming/src/Socket2/ClientFrame.java">
+    <entry file="file://$PROJECT_DIR$/gui-form/src/gui1/TimLonginFream.form" />
+    <entry file="file://$PROJECT_DIR$/gui-form/src/gui1/TimLonginFream.java" />
+    <entry file="file://$PROJECT_DIR$/gui-form/src/gui1/TimLoginFream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="43" column="50" selection-start-line="43" selection-start-column="50" selection-end-line="43" selection-end-column="50" />
+        <state relative-caret-position="360">
+          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/network-programming/src/Socket/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="13" column="49" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/network-programming/src/Socket/GreetingClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/network-programming/src/Socket/Server1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/network-programming/src/Socket2/Client2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/network-programming/src/Socket2/Client3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="13" column="45" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -851,8 +788,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/network-programming/src/Socket2/Client4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
+        <state relative-caret-position="150">
           <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/network-programming/src/Socket2/Client7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/network-programming/src/Socket2/ClientFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-392">
+          <caret line="43" column="50" selection-start-line="43" selection-start-column="50" selection-end-line="43" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/network-programming/src/Socket2/Server7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -861,7 +825,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/network-programming/src/udp/UDPClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="811">
+        <state relative-caret-position="1020">
           <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -869,17 +833,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gui-form/src/gui1/TimLonginFream.form">
-      <provider selected="true" editor-type-id="ui-designer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gui-form/src/gui1/TimLonginFream.java">
+    <entry file="file://$PROJECT_DIR$/network-programming/src/udp/UDPServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="150">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#605#606#0" expanded="true" />
-            <element signature="e#679#680#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -887,10 +846,44 @@
     <entry file="file://$PROJECT_DIR$/gui-form/src/gui1/TimLoginFream.form">
       <provider selected="true" editor-type-id="ui-designer" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/gui-form/src/gui1/TimLoginFream.java">
+    <entry file="file://$PROJECT_DIR$/gui-form/src/img/3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gui-form/src/img/6.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gui-form/src/img/7.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gui-form/src/img/4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gui-form/src/img/5.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gui-form/src/img/2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gui-form/src/img/me.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gui-form/src/gui1/CloudMusicFream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="28" column="60" selection-start-line="28" selection-start-column="60" selection-end-line="28" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gui-form/src/gui1/CloudMusicFream.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gui-form/src/gui1/TencentFream.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gui-form/src/gui1/TencentFream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+          <caret line="11" column="46" lean-forward="true" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
         </state>
       </provider>
     </entry>
