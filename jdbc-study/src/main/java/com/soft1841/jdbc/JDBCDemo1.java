@@ -1,6 +1,9 @@
 package com.soft1841.jdbc;
 import java.sql.*;
 
+/**
+ * JDBC编程起步
+ */
 public class JDBCDemo1 {
     //JDBC驱动名及数据库连接URL
     static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
