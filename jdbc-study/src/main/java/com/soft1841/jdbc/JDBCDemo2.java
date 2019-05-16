@@ -19,6 +19,7 @@ public class JDBCDemo2 {
         //建立连接
         System.out.println("连接数据库.....");
         Connection conn = DriverManager.getConnection(DB_URL,USER,PASS);
+        //SQL语句
         String sql = "INSERT INTO t_student(name,age) VALUES(?,?)";
         System.out.println("实例化PreparedStatement对象.....");
         PreparedStatement pstmt=conn.prepareStatement(sql);
