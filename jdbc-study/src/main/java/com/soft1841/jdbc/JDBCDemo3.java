@@ -22,14 +22,12 @@ public class JDBCDemo3 {
         String sql = "UPDATE t_student SET name=?,age=? WHERE id=?";
         PreparedStatement pstmt = conn.prepareStatement(sql);
         pstmt.setString(1,"修改后的名字");
-        pstmt.setInt(1,22);
+        pstmt.setInt(2,22);
         //此处设置要修改的那条记录的id，请自行对照数据库的值
-        pstmt.setInt(1,3);
+        pstmt.setInt(3,2);
         int n = pstmt.executeUpdate();
         System.out.println(n+"行记录受影响");
         pstmt.close();
         conn.close();
-
-
     }
 }

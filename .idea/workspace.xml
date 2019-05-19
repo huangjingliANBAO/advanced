@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="swing-study:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="6ff7bd6d-3e09-4ee0-9aa4-caddf7ad2ba5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/jdbc-study/src/main/java/com/soft1841/jdbc/JDBCDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbc-study/src/main/java/com/soft1841/jdbc/JDBCDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dp-study/dp-study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dp-study/src/demo/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dp-study/src/demo/SingletonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdbc-study/src/main/java/com/soft1841/jdbc/JDBCDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc-study/src/main/java/com/soft1841/jdbc/JDBCDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdbc-study/target/classes/com/soft1841/jdbc/JDBCDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc-study/target/classes/com/soft1841/jdbc/JDBCDemo2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc-study/src/main/java/com/soft1841/jdbc/JDBCDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc-study/src/main/java/com/soft1841/jdbc/JDBCDemo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc-study/src/main/java/com/soft1841/jdbc/JDBCDemo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc-study/src/main/java/com/soft1841/jdbc/JDBCDemo4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc-study/target/classes/com/soft1841/jdbc/JDBCDemo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc-study/target/classes/com/soft1841/jdbc/JDBCDemo3.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/jdbc-study/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,9 +27,9 @@
     <session id="-925477666">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="28" />
+          <entry key="project.closed" value="33" />
           <entry key="project.open.time.0" value="6" />
-          <entry key="project.open.time.1" value="6" />
+          <entry key="project.open.time.1" value="8" />
           <entry key="project.open.time.11" value="6" />
           <entry key="project.open.time.12" value="3" />
           <entry key="project.open.time.13" value="6" />
@@ -31,19 +39,20 @@
           <entry key="project.open.time.17" value="2" />
           <entry key="project.open.time.18" value="2" />
           <entry key="project.open.time.19" value="1" />
-          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.2" value="6" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.3" value="2" />
-          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="54" />
+          <entry key="project.opened" value="61" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="2" />
           <entry key="form" value="11" />
-          <entry key="java" value="972" />
+          <entry key="java" value="975" />
           <entry key="jpg" value="12" />
           <entry key="png" value="27" />
           <entry key="xml" value="1" />
@@ -54,33 +63,36 @@
           <entry key="CLASS" value="2" />
           <entry key="GUI_DESIGNER_FORM" value="11" />
           <entry key="Image" value="39" />
-          <entry key="JAVA" value="972" />
+          <entry key="JAVA" value="975" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="144" />
-          <entry key="java" value="54120" />
+          <entry key="java" value="54232" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="54120" />
+          <entry key="JAVA" value="54232" />
           <entry key="PLAIN_TEXT" value="144" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="advanced" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jdbc-study/src/main/java/com/soft1841/jdbc/JDBCDemo2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="811">
-              <caret line="33" lean-forward="true" selection-start-line="10" selection-end-line="33" />
+            <state relative-caret-position="660">
+              <caret line="22" column="66" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="66" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -91,20 +103,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jdbc-study/src/main/java/com/soft1841/jdbc/JDBCDemo3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/jdbc-study/src/main/java/com/soft1841/jdbc/JDBCDemo4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="630">
+              <caret line="21" column="68" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="68" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -113,9 +113,57 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jdbc-study/src/main/java/com/soft1841/jdbc/JDBCDemo4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="750">
+              <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/swing-study/src/ApplicationDemo/CardLayoutTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dp-study/src/demo/Singleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <element signature="e#258#259#0" expanded="true" />
+                <element signature="e#289#290#0" expanded="true" />
+                <element signature="e#336#337#0" expanded="true" />
+                <element signature="e#386#387#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dp-study/src/demo/SingletonTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jdbc-study/src/main/java/com/soft1841/jdbc/JDBCDemo1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="780">
+            <state relative-caret-position="1320">
               <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
             </state>
           </provider>
@@ -137,8 +185,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/jsoup-study/src/jsoup/TestMP3.java" />
-        <option value="$PROJECT_DIR$/network-programming/src/Client.java" />
         <option value="$PROJECT_DIR$/network-programming/src/Server.java" />
         <option value="$PROJECT_DIR$/network-programming/src/Socket/GreetingClient.java" />
         <option value="$PROJECT_DIR$/network-programming/src/Socket/GreetingServer.java" />
@@ -188,6 +234,8 @@
         <option value="$PROJECT_DIR$/jdbc-study/src/main/java/com/soft1841/jdbc/JDBCDemo2.java" />
         <option value="$PROJECT_DIR$/jdbc-study/src/main/java/com/soft1841/jdbc/JDBCDemo3.java" />
         <option value="$PROJECT_DIR$/jdbc-study/src/main/java/com/soft1841/jdbc/JDBCDemo4.java" />
+        <option value="$PROJECT_DIR$/dp-study/src/demo/Singleton.java" />
+        <option value="$PROJECT_DIR$/dp-study/src/demo/SingletonTest.java" />
       </list>
     </option>
   </component>
@@ -235,7 +283,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dp-study" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dp-study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dp-study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -265,59 +334,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jdbc-study" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jdbc-study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jdbc-study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jdbc-study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jdbc-study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jdbc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="network-programming" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="network-programming" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="168" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558045949985" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558309736630" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -325,9 +349,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/jsoup-study/jar/jsoup-1.11.3.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
@@ -367,13 +391,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JDBCDemo4">
-    <configuration name="JDBCDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.soft1841.jdbc.JDBCDemo1" />
-      <module name="jdbc-study" />
+  <component name="RunManager" selected="Application.SingletonTest">
+    <configuration name="CardLayoutTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ApplicationDemo.CardLayoutTest" />
+      <module name="swing-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.soft1841.jdbc.*" />
+          <option name="PATTERN" value="ApplicationDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -420,12 +444,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="URLDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="url.URLDemo" />
-      <module name="network-programming" />
+    <configuration name="SingletonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.SingletonTest" />
+      <module name="dp-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="url.*" />
+          <option name="PATTERN" value="demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -434,19 +458,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.URLDemo" />
-      <item itemvalue="Application.JDBCDemo1" />
       <item itemvalue="Application.JDBCDemo2" />
       <item itemvalue="Application.JDBCDemo3" />
       <item itemvalue="Application.JDBCDemo4" />
+      <item itemvalue="Application.CardLayoutTest" />
+      <item itemvalue="Application.SingletonTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JDBCDemo4" />
+        <item itemvalue="Application.SingletonTest" />
+        <item itemvalue="Application.CardLayoutTest" />
         <item itemvalue="Application.JDBCDemo3" />
+        <item itemvalue="Application.JDBCDemo4" />
         <item itemvalue="Application.JDBCDemo2" />
-        <item itemvalue="Application.JDBCDemo1" />
-        <item itemvalue="Application.URLDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -513,12 +537,19 @@
       <workItem from="1557785768367" duration="2003000" />
       <workItem from="1557872647863" duration="1774000" />
       <workItem from="1557927174509" duration="2857000" />
-      <workItem from="1558016630321" duration="932000" />
+      <workItem from="1558016630321" duration="1351000" />
+      <workItem from="1558071698336" duration="941000" />
+      <workItem from="1558073371456" duration="249000" />
+      <workItem from="1558077364498" duration="3106000" />
+      <workItem from="1558142798151" duration="797000" />
+      <workItem from="1558161579920" duration="1751000" />
+      <workItem from="1558239604313" duration="729000" />
+      <workItem from="1558246767868" duration="1121000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="416138000" />
+    <option name="totallyTimeSpent" value="425251000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -531,9 +562,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49838188" visible="true" weight="0.14765458" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49838188" visible="true" weight="0.114605546" />
       <window_info id="Structure" order="1" sideWeight="0.50161815" side_tool="true" weight="0.13486141" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -542,14 +572,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23018458" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5124864" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.44625407" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3485342" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.34527686" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32681867" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -600,15 +630,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/network-programming/src/Socket2/Client.java" />
-    <entry file="file://$PROJECT_DIR$/network-programming/src/Socket2/Server.java" />
-    <entry file="file://$PROJECT_DIR$/network-programming/src/Socket/Client3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="542">
-          <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/network-programming/src/Socket/Server3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -859,17 +880,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jdbc-study/src/main/java/com/soft1841/jdbc/JDBCDemo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jdbc-study/src/main/java/com/soft1841/jdbc/JDBCDemo2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="811">
-          <caret line="33" lean-forward="true" selection-start-line="10" selection-end-line="33" />
+        <state relative-caret-position="660">
+          <caret line="22" column="66" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="66" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -878,8 +892,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jdbc-study/src/main/java/com/soft1841/jdbc/JDBCDemo3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        <state relative-caret-position="630">
+          <caret line="21" column="68" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="68" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -888,11 +902,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jdbc-study/src/main/java/com/soft1841/jdbc/JDBCDemo4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="750">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbc-study/src/main/java/com/soft1841/jdbc/JDBCDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swing-study/src/ApplicationDemo/CardLayoutTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dp-study/src/demo/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dp-study/src/demo/SingletonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -902,10 +953,12 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <last-edited>swing-study:jar</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -948,7 +1001,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>jdbc-study</last-edited>
+          <last-edited>swing-study</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
