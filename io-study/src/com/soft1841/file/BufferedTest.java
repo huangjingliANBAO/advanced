@@ -9,7 +9,7 @@ import java.io.*;
  */
 public class BufferedTest {
     public static void main(String[] args) {
-        String content[] = {"你不喜欢我","我一点也不介意","因为我一无所有","是否我真的一无所有"};
+        String content[] = {"你喜欢我"};
         File file = new File("word.txt");
         try{
             //创建FileWriter类

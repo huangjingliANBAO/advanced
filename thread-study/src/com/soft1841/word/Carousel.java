@@ -9,7 +9,7 @@ import java.io.*;
  * 2019.04.27
  */
 public class Carousel implements Runnable {
-    private String[] images = {"D:/image/13.png","D:/image/14.png","D:/image/15.png","D:/image/16.png"};
+    private String[] images = {"E:/java-study-file/image/13.png","E:/java-study-file/image/14.png","E:/java-study-file/image/15.png","E:/java-study-file/image/16.png"};
     private JLabel imagesLabel;
 
     public void setImagesLabel(JLabel imagesLabel) {

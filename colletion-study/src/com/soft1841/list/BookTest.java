@@ -13,7 +13,7 @@ public class BookTest {
         bookList.add(new Book(4,"Python",55.55));
         System.out.println(bookList);
         //向Book添加元素
-        bookList.add(1,new Book(5,"高数",55.55));
+        bookList.add(4,new Book(5,"高数",55.55));
         System.out.println(bookList);
         //删除元素
         bookList.remove(2);
